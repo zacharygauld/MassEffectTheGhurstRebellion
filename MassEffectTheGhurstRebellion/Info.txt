@@ -1,0 +1,22 @@
+﻿Possible endings:
+1. Overthrow of Drau leader with new leader installed. Epilogue shows he's bad as the previous leader; repeat of history with another rebellion after a few years.
+2. Same as above, with you as leader. Things turn out well.
+3. Failure. Rebellion is stopped in its tracks. Many members of the rebellion, including you, are executed for treason.
+4. Treaty that stops the rebellion. Current clan leader stays, though gives in to some demands of the rebellion.
+
+Game will be a choose your adventure type of RPG that allows the player to pick various ways of doing things. What you do will affect the final outcome of the game, hence the differing endings
+that can occur.
+
+MENU
+Investigate
+-- Weapons in the area
+-- Items in the area
+OTHER STUFF
+
+Move to new area
+
+COMBAT
+
+
+BUGS FOUND
+
