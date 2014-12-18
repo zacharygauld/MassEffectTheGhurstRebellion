@@ -11,6 +11,11 @@ namespace MassEffectTheGhurstRebellion
         public string Name { get; set; }
         public string Description { get; set; }
 
+        /// <summary>
+        /// Item constructor
+        /// </summary>
+        /// <param name="name">Name of item</param>
+        /// <param name="description">Description of item</param>
         public Item(string name, string description)
         {
             Name = name;

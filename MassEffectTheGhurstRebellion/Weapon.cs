@@ -12,7 +12,14 @@ namespace MassEffectTheGhurstRebellion
         public string Description { get; set; }
         public bool IsRanged { get; set; }
         public int Power { get; set; }
-
+        
+        /// <summary>
+        /// Weapon constructor
+        /// </summary>
+        /// <param name="name">Name of weapon</param>
+        /// <param name="description">Description of weapon</param>
+        /// <param name="isRanged">Is the weapon ranged or not?</param>
+        /// <param name="power">The weapon's power rating</param>
         public Weapon(string name, string description, bool isRanged, int power)
         {
             Name = name;

@@ -14,6 +14,12 @@ namespace MassEffectTheGhurstRebellion
         public string AreaDescription { get; set; }
         public string InvestigateDescription { get; set; }
 
+        /// <summary>
+        /// Area constructor
+        /// </summary>
+        /// <param name="name">Name of the area</param>
+        /// <param name="areaDescription">Description of the area</param>
+        /// <param name="investigateDescription">Additional description of the area shown in the Investigate menu</param>
         public Area(string name, string areaDescription, string investigateDescription)
         {
             Name = name;
