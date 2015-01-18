@@ -289,12 +289,46 @@ namespace MassEffectTheGhurstRebellion
                     DisplayBattleAttack();
                     break;
                 case 1:
-                    Console.WriteLine("This hasn't been implemented yet!");
-                    Console.ReadKey();
+                    DisplayBattleInventory();
                     break;
                 default:
                     break;
             }
+        }
+
+        void DisplayBattleInventory()
+        {
+            GameCursor.ChoiceMade = false;
+            GameCursor.Y = 16;
+            bool choice = false;
+            while (!choice)
+            {
+                ClearAndMakeTextWhite();
+                DisplayBattleInfo();
+                int position = 16;
+                // prints each weapon on the screen
+                foreach (Item item in Player.ItemInventory)
+                {
+                    PrintAtPosition(6, position, item.Name);
+                    position++;
+                }
+                PrintAtPosition(6, position, "Go back");
+                // displays the weapon's stats
+                if (GameCursor.choice != Player.ItemInventory.Count())
+                {
+                    PrintAtPosition(40, 16, Player.ItemInventory[GameCursor.choice].Name);
+                }
+                GameCursor.Print();
+                TimeInterval();
+                GameCursor.MenuMove(16, Player.ItemInventory);
+                if (GameCursor.ChoiceMade)
+                    choice = true;
+            }
+            // returns back to the main battle menu
+            if (GameCursor.SelectedChoice > Player.ItemInventory.Count() - 1)
+                DisplayBattle();
+            else
+                BattleSequence();
         }
 
         /// <summary>

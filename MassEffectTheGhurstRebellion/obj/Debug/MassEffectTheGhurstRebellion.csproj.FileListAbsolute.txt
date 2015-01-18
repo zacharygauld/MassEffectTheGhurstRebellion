@@ -21,3 +21,9 @@ C:\Users\Zachary\Documents\GitHub\MassEffectTheGhurstRebellion\MassEffectTheGhur
 C:\Users\Zachary\Documents\GitHub\MassEffectTheGhurstRebellion\MassEffectTheGhurstRebellion\bin\Debug\MassEffectTheGhurstRebellion.exe
 C:\Users\Zachary\Documents\GitHub\MassEffectTheGhurstRebellion\MassEffectTheGhurstRebellion\bin\Debug\MassEffectTheGhurstRebellion.pdb
 C:\Users\Zachary\Documents\GitHub\MassEffectTheGhurstRebellion\MassEffectTheGhurstRebellion\obj\Debug\MassEffectTheGhurstRebellion.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\MassEffectTheGhurstRebellion\MassEffectTheGhurstRebellion\bin\Debug\MassEffectTheGhurstRebellion.exe.config
+C:\Users\Admin\Documents\GitHub\MassEffectTheGhurstRebellion\MassEffectTheGhurstRebellion\obj\Debug\MassEffectTheGhurstRebellion.exe
+C:\Users\Admin\Documents\GitHub\MassEffectTheGhurstRebellion\MassEffectTheGhurstRebellion\obj\Debug\MassEffectTheGhurstRebellion.pdb
+C:\Users\Admin\Documents\GitHub\MassEffectTheGhurstRebellion\MassEffectTheGhurstRebellion\bin\Debug\MassEffectTheGhurstRebellion.exe
+C:\Users\Admin\Documents\GitHub\MassEffectTheGhurstRebellion\MassEffectTheGhurstRebellion\bin\Debug\MassEffectTheGhurstRebellion.pdb
+C:\Users\Admin\Documents\GitHub\MassEffectTheGhurstRebellion\MassEffectTheGhurstRebellion\obj\Debug\MassEffectTheGhurstRebellion.csprojResolveAssemblyReference.cache
